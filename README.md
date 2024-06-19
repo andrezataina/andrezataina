@@ -21,13 +21,6 @@
 
 
 
-### Frontend  
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -39,15 +32,6 @@
 </td><td valign="top" width="33%">
 
 
-
-### DevOps  
-<div align="center">  
-  
-</div>
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Connect with me  
